@@ -3,18 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - End
+  - RemoveBall
+  - Ball
+  - Spawn
+  - Brick
+  - BallPusher
+  - UI_FON
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ball
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Border
+  - Spawn
+  - BorderNoPhysic
+  - Brick
   - 
   - 
   - 

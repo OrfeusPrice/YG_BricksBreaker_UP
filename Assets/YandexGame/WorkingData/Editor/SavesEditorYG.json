@@ -1,0 +1,27 @@
+{
+  "idSave": 161,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "_wins": 27,
+  "_money": 864,
+  "_damage": 17,
+  "_count_of_balls": 15,
+  "_getXP": 11,
+  "_crit": 120,
+  "_crit_chance": 13,
+  "_oneshot_chance": 6,
+  "_price_of_damage": 6453,
+  "_price_of_count_of_balls": 7452,
+  "_price_of_exp_get": 567,
+  "_price_of_crit": 168,
+  "_price_of_crit_chance": 850,
+  "_price_of_oneshot_chance": 291
+}
